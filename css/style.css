@@ -7,14 +7,11 @@ body{
 .container{
     width: 1158px;
     padding: 0 15px;
+    margin: 0 auto;
 }
 
 body img{
     display: block;
-}
-
-.nav a{
-    margin-right: 76px;
 }
 
 .nav-logo{
@@ -27,7 +24,8 @@ body img{
     color: #4d5ae5;
     display: inline-block;
     margin-bottom: 16px;
-
+    margin-right: 76px;
+    
 }
 
 .header-nav{
@@ -243,6 +241,7 @@ body img{
 .s-three-div{
     padding: 32px 0;
 
+
 }
 
 .s-three-ul{
@@ -317,9 +316,13 @@ body img{
 }
 
 .four-li{
+    padding: 32px 16px;
     border-width: 0px 1px 1px 1px;
     border-style: solid;
     border-color: #E7E9FC;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
 }
 
 .four-h-two{
