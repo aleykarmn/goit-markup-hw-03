@@ -37,6 +37,8 @@ body img{
 
 .header-div{
     display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .header-ul{
