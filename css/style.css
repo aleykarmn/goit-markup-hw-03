@@ -328,6 +328,9 @@ body img{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+}
+
+.li-one{
     width: calc((100% - 72px) / 4);
 }
 
