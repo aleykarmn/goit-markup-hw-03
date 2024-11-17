@@ -328,6 +328,7 @@ body img{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 
 .li-one{
@@ -361,15 +362,14 @@ body img{
 }
 
 
-
 .four-p{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
 footer{
-    background-color: #2e2f42;
     padding: 100px 0;
+    background-color: #2e2f42;
 }
 
 .footer-p{
